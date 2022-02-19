@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1d4e911-6533-4479-8aba-7c7e5664f524" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21rdHcEhNnYlRxbhVOfagj8YhC3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flutter.example/lib/main.dart">
+    <configuration name="main1.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/example/lib/main1.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.main1.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1d4e911-6533-4479-8aba-7c7e5664f524" name="Default Changelist" comment="" />
+      <created>1638703053324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638703053324</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="902" height="235" key="GridCell.Tab.0.bottom" timestamp="1645283874668">
+      <screen x="0" y="23" width="1280" height="720" />
+    </state>
+    <state width="902" height="235" key="GridCell.Tab.0.bottom/0.23.1280.720@0.23.1280.720" timestamp="1645283874668" />
+    <state width="891" height="114" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1645123481645" />
+    <state width="1228" height="182" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1638725896421" />
+    <state width="902" height="235" key="GridCell.Tab.0.center" timestamp="1645283874667">
+      <screen x="0" y="23" width="1280" height="720" />
+    </state>
+    <state width="902" height="235" key="GridCell.Tab.0.center/0.23.1280.720@0.23.1280.720" timestamp="1645283874667" />
+    <state width="891" height="114" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1645123481642" />
+    <state width="1228" height="182" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1638725896420" />
+    <state width="902" height="235" key="GridCell.Tab.0.left" timestamp="1645283874666">
+      <screen x="0" y="23" width="1280" height="720" />
+    </state>
+    <state width="902" height="235" key="GridCell.Tab.0.left/0.23.1280.720@0.23.1280.720" timestamp="1645283874666" />
+    <state width="891" height="114" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1645123481638" />
+    <state width="1228" height="182" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1638725896419" />
+    <state width="902" height="235" key="GridCell.Tab.0.right" timestamp="1645283874667">
+      <screen x="0" y="23" width="1280" height="720" />
+    </state>
+    <state width="902" height="235" key="GridCell.Tab.0.right/0.23.1280.720@0.23.1280.720" timestamp="1645283874667" />
+    <state width="891" height="114" key="GridCell.Tab.0.right/0.23.1280.721@0.23.1280.721" timestamp="1645123481643" />
+    <state width="1228" height="182" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1638725896420" />
+    <state x="126" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1645258707575">
+      <screen x="0" y="23" width="1280" height="720" />
+    </state>
+    <state x="126" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1280.720@0.23.1280.720" timestamp="1645258707575" />
+    <state x="52" y="23" width="838" height="720" key="search.everywhere.popup" timestamp="1645263255351">
+      <screen x="0" y="23" width="1280" height="720" />
+    </state>
+    <state x="52" y="23" width="838" height="720" key="search.everywhere.popup/0.23.1280.720@0.23.1280.720" timestamp="1645263255351" />
+  </component>
+</project>
