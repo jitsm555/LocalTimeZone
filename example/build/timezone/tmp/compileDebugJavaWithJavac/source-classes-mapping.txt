@@ -1,0 +1,2 @@
+com/jitsm555/timezone/timezone/BuildConfig.java
+ com.jitsm555.timezone.timezone.BuildConfig

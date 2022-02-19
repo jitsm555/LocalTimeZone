@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # timezone
 
 A new flutter plugin project.
@@ -13,3 +14,6 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+=======
+# LocalTimeZone
+>>>>>>> 8c5ed43c4a21813cc41d9aca9c429afd577143da

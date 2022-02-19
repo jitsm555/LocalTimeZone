@@ -1,0 +1,4 @@
+#Thu Feb 17 22:42:13 IST 2022
+base.0=/Users/apple/dev/flutter/code/github_projects/mytimezone/timezone/example/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

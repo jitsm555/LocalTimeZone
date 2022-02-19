@@ -1,0 +1,11 @@
+framework module timezone {
+  umbrella header "timezone-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module timezone.Swift {
+    header "timezone-Swift.h"
+    requires objc
+}
